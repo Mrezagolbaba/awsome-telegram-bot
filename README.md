@@ -74,9 +74,9 @@ cd frontend
 npm install
 ```
 3. **ngrok:**
-   ```
-   ngrok http 5173
-   ```
+```
+ngrok http 5173
+```
 ### Setting Up Environment Variables
 
 Create a `.env` file in  `backend` directoriy and add the necessary environment variables.
