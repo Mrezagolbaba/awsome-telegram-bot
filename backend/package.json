@@ -1,0 +1,28 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "nodemon src/bot.ts",
+    "start:prod": "node dist/bot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.14.11",
+    "@types/node-telegram-bot-api": "^0.64.7",
+    "@types/sqlite3": "^3.1.11",
+    "dotenv": "^16.4.5",
+    "node-telegram-bot-api": "^0.66.0",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7",
+    "typescript": "^5.5.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4",
+    "ts-node": "^10.9.2"
+  }
+}
