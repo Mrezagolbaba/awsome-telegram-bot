@@ -87,3 +87,11 @@ TELEGRAM_BOT_TOKEN= 7411594207:AAHt8snRM8KWKDVqv4U5nM4pLHsSyNmYIfI
 HTTP_EXPOSE_URL= https://39b9-46-131-88-178.ngrok-free.app/
 ```
 
+
+**Commands:**
+
+```
+/start
+/adminhello
+/adminusers admin_Telegram_ID
+
